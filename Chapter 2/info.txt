@@ -1,0 +1,1 @@
+This chapter is about variable, input, output, typecast and besic idea of JAVA.
